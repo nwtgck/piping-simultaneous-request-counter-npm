@@ -20,7 +20,7 @@
     "babel-loader": "^8.2.0",
     "babel-preset-es2015": "^6.24.1",
     "html-webpack-plugin": "^4.4.1",
-    "ts-loader": "^8.0.10",
+    "ts-loader": "^8.0.13",
     "typescript": "^4.1.3",
     "webpack": "^4.44.2",
     "webpack-cli": "^4.3.1",
